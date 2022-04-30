@@ -7,7 +7,6 @@
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
-        <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
   </component>
