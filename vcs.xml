@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/koel/koel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inboofficial/inbo-laravel-ecommerce.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/Phpstorm" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Phpstorm/Inbo/Laravel/Package" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
