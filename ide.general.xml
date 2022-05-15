@@ -9,6 +9,7 @@
         <entry key="Laravel" value="false" />
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="mtStatusBar" value="false" />
         <entry key="php.language.level.widget" value="false" />
         <entry key="symfony.status.bar" value="false" />
       </map>
